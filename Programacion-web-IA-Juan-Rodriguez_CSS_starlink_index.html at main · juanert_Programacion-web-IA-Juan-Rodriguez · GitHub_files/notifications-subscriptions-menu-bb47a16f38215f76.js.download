@@ -1,0 +1,2 @@
+performance.mark("js-parse-end:notifications-subscriptions-menu-bb47a16f38215f76.js");
+"use strict";(globalThis.rspackChunk_github_ui_github_ui=globalThis.rspackChunk_github_ui_github_ui||[]).push([[44009],{},function(u){u.O(0,[13726,296,41328,437,4706,4871,50091,59299,65063,68550,74530,7542,76015,77844,78205,79095,79589,80624,80778,83465,88794,90225,93986,98131],function(){return u(u.s=26080)}),u.O()}]);
